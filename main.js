@@ -53,42 +53,42 @@ const PRODUCTS = [
     id: 'p1',
     name: 'Mocha',
     notes: 'Brewed elegance in every flame',
-    image: 'images/products/mocha.jpg',
+    image: 'images/mocha.jpg',
     hue: 'rust'
   },
   {
     id: 'p2',
     name: 'Vanilla',
     notes: 'Sweet serenity in every flicker',
-    image: 'images/products/vanilla.jpg',
+    image: 'images/vanilla.jpg',
     hue: 'marigold'
   },
   {
     id: 'p3',
     name: 'Mango',
     notes: 'Indulge in the sweet embrace of Mango dreams',
-    image: 'images/products/mango.jpg',
+    image: 'images/mango.jpg',
     hue: 'amber'
   },
   {
     id: 'p4',
     name: 'Lemongrass',
     notes: 'Citrus zen in every flicker',
-    image: 'images/products/lemongrass.jpg',
+    image: 'images/lemongrass.jpg',
     hue: 'sage'
   },
   {
     id: 'p5',
     name: 'Lavender',
     notes: 'Premium quality, highly fragranced',
-    image: 'images/products/lavender.jpg',
+    image: 'images/lavender.jpg',
     hue: 'rose'
   },
   {
     id: 'p6',
     name: 'Coffee Latte',
     notes: 'Soy wax candle, made in India',
-    image: 'images/products/coffee-latte.jpg',
+    image: 'images/coffee-latte.jpg',
     hue: 'forest'
   }
 ];
